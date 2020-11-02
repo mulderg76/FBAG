@@ -4,7 +4,7 @@ theme = "Mainroad-master"
 title = "Blog du Marketer"
 [[menu.main]]
 name = "Formules d'abonnement"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Qui sommes nous"
 weight = 2
