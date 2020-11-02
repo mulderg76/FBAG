@@ -2,16 +2,19 @@
 title: Getting Started with Hugo
 date: 2014-04-02
 tags:
-  - "go"
-  - "golang"
-  - "hugo"
-  - "development"
+- go
+- golang
+- hugo
+- development
 categories:
-  - "Development"
-  - "golang"
-menu: main
----
+- Development
+- golang
+menu:
+  main:
+    name: QUI SOMMES NOUS
+    weight: 2
 
+---
 ## Step 1. Install Hugo
 
 Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
