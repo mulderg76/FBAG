@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Hugo
+title: QUI SOMMES NOUS
 date: 2014-04-02
 tags:
 - go
@@ -11,7 +11,6 @@ categories:
 - golang
 menu:
   main:
-    name: QUI SOMMES NOUS
     weight: 2
 
 ---
