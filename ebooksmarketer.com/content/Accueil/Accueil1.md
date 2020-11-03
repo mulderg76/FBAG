@@ -1,4 +1,5 @@
 +++
+type = "Pages"
 title = "Accueil"
 [menu.main]
 name = "Accueil"
