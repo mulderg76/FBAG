@@ -40,7 +40,7 @@ name = "Abonnements"
 weight = 4
 [params]
 author = "Themefisher"
-copyright = "| Copyright &copy; 2020 [FGL SERVICES]"
+copyright = "Copyright &copy; 2020 FGL SERVICES"
 description = "This is meta description"
 email = "demo@email.com"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
