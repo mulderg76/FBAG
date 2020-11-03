@@ -26,7 +26,7 @@ Vous ne connaissez pas encore Google Keyword Planner ? Vous avez un faible pour 
 5. Les études de marché
 6. ...
 
-* NOS FORMULRES D'ABONNEMENT :
+* NOS FORMULES D'ABONNEMENT :
 1. Formule accès 1 book au choix
 2. Formule accès 100% ebooks pendant 1 mois
 3. Formule accès 100% ebooks pendant 6 mois
