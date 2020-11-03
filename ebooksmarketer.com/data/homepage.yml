@@ -2,16 +2,14 @@
 banner:
   enable : true
   title : "Bienvenue sur le blog du Marketer !"
-  content : "Si vous êtes sur notre blog c'est que vous cherchez à approfondir vos compétences en matière de marketing"
+  content : "Si vous êtes sur notre blog c'est que vous cherchez à approfondir vos compétences en matière de marketing."
   image : "images/Marketing.jpg"
 
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "Ce blog vous est destiné"
+  content : "Vous ne connaissez pas encore Google Keyword Planner ? Votre direction vous a demandé de mettre en place une stratégie content marketing ?"
   image : "images/about.png"
 
 
