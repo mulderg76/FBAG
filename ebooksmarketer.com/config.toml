@@ -2,15 +2,3 @@ baseURL = "/"
 languageCode = "fr-fr"
 theme = "Mainroad-master"
 title = "Blog du Marketer"
-[[menu.main]]
-name = "Nous contacter"
-weight = 5
-[[menu.main]]
-name = "Nos articles"
-weight = 3
-[[menu.main]]
-name = "Formules d'abonnement"
-weight = 4
-[[menu.main]]
-name = "Qui sommes nous"
-weight = 2
