@@ -1,5 +1,9 @@
 +++
-description = "Accueil du blog du marketer"
+title = "Accueil"
+[menu.main]
+name = "Accueil"
+weight = 1
+
 +++
 
 # BIENVENUE SUR LE BLOG DU MARKETER !
