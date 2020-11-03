@@ -29,40 +29,36 @@ material:
   enable : true
   title : "Vous en voulez plus ?"
   subtitle : "Abonnez vous et consultez nos ebooks dédiés créés par nos experts !"
-  button:
-    enable : true
-    label : "Formules d'abonnement"
-    link : "products"
 
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : "Nos clients en parlent"
   testimonialItem:
     # testimonial item loop
-    - name : "Angelo Perara"
+    - name : "Mick Guiver"
       image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      designation : "Aventurier"
+      content : "J'ai commandé l'ebook pour devenir indépendant, une reconversion réussie."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
+    - name : "Lorie Pester"
       image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      designation : "Chanteuse et patineuse"
+      content : "Je serai toujours là pour toi."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "john Doe"
+    - name : "Cyril Hanouna"
       image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      designation : "Troubadour"
+      content : "A tout de suite mes petites beautés."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
+    - name : "Donald Trump"
       image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "four" # rating star, one to five
+      designation : "CEO USA"
+      content : "My twitter has become so powerful that I can actually make my enemies tell the truth."
+      rating : "one" # rating star, one to five
