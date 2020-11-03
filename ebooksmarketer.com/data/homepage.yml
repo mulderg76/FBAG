@@ -3,17 +3,7 @@ banner:
   enable : true
   title : "Bienvenue sur le blog du Marketer !"
   content : "Si vous êtes sur notre blog c'est que vous cherchez à approfondir vos compétences en matière de marketing"
-  content : "Nous avons décidé de créer un blog qui vous est destiné !"
-  image : "images/Marketing.jpg"
-  # button
-  button:
-    enable : true
-    label : "All Products"
-    link : "products"
-  # demo video
-  video:
-    enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    image : "images/Marketing.jpg"
 
 ########################## About ##############################
 about:
