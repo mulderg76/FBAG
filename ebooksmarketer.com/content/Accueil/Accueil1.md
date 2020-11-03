@@ -1,5 +1,4 @@
 +++
-title = "Accueil"
 description = "Accueil du blog du marketer"
 +++
 
