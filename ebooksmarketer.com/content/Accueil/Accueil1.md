@@ -1,12 +1,10 @@
 +++
-type = "Pages"
 title = "Accueil"
+type = "Pages"
 [menu.main]
-name = "Accueil"
-weight = 1
+weight = 2
 
 +++
-
 # BIENVENUE SUR LE BLOG DU MARKETER !
 
 ## Si vous êtes sur notre blog c'est que vous cherchez à approfondir vos compétences en matière de marketing.
