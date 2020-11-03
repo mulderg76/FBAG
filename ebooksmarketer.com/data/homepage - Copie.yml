@@ -1,8 +1,9 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "BIENVENUE SUR LE BLOG DU MARKETER !"
-  content : "Si vous êtes sur notre blog c'est que vous cherchez à approfondir vos compétences en matière de marketing"
+  title : "Best Beauty Cream For Your Skin"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+          dolore magna aliquyam erat, sed dia"
   image : "images/banner.png"
   # button
   button:
