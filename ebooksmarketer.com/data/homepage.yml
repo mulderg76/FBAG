@@ -27,9 +27,8 @@ cta:
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  title : "Vous en voulez plus ?"
+  subtitle : "Abonnez vous et consultez nos ebooks dédiés créés par nos experts !"
   materialItem:
     # material item loop
     - title : "Matcha Seeds"
