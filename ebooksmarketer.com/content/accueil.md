@@ -2,6 +2,8 @@
 categories = []
 date = ""
 tags = []
-title = "NOS-ARTICLES"
+title = "Accueil"
+[menu.main]
+weight = 1
 
 +++
