@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "fr-fr"
-theme = "Mainroad-master"
+theme = "Hargo"
 title = "Le blog du Marketer"
 [[menu.main]]
 name = "Accueil"
