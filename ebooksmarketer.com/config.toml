@@ -28,20 +28,16 @@ name = "Abonnements"
 weight = 1
 [[menu.main]]
 URL = "contact"
-name = "Contact"
-weight = 7
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
+name = "Nous contacter"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Articles"
 weight = 3
 [[menu.main]]
 URL = "products"
-name = "Products"
-weight = 1
+name = "Abonnements"
+weight = 2
 [params]
 author = "Themefisher"
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"

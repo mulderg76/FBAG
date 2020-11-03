@@ -1,8 +1,6 @@
 +++
 title = "Accueil"
 type = "Pages"
-[menu.main]
-weight = 2
 
 +++
 # BIENVENUE SUR LE BLOG DU MARKETER !
