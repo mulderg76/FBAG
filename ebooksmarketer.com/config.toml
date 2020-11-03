@@ -2,3 +2,7 @@ baseURL = "/"
 languageCode = "fr-fr"
 theme = "Mainroad-master"
 title = "Blog du Marketer"
+[[menu.main]]
+name = "Accueil"
+url = "https://stupefied-rosalind-bc906f.netlify.app/"
+weight = 1
