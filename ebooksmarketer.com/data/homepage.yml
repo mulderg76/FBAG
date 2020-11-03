@@ -30,6 +30,7 @@ material:
   title : "Vous en voulez plus ?"
   subtitle : "Abonnez vous et consultez nos ebooks dédiés créés par nos experts !"
   button:
+    enable : true
     label : "Formules d'abonnement"
     link : "products"
 
