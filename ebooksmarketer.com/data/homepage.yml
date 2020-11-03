@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Bienvenue sur le blog du Marketer !"
   content : "Si vous êtes sur notre blog c'est que vous cherchez à approfondir vos compétences en matière de marketing"
-    image : "images/Marketing.jpg"
+  image : "images/Marketing.jpg"
 
 ########################## About ##############################
 about:
