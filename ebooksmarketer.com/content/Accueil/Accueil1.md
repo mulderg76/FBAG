@@ -1,5 +1,4 @@
 +++
-description = "Accueil du blog du marketer"
 title = "Accueil"
 [menu.main]
 name = "Accueil"
