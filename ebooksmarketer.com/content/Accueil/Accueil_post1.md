@@ -1,5 +1,5 @@
 +++
-type = "Accueil"
+type = "Page Template"
 title = "Accueil"
 description = "Accueil du blog du marketer"
 +++
