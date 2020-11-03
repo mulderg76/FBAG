@@ -37,7 +37,7 @@ weight = 3
 [[menu.main]]
 URL = "products"
 name = "Abonnements"
-weight = 2
+weight = 4
 [params]
 author = "Themefisher"
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
