@@ -15,4 +15,5 @@ fields:
   name: categories
   label: categories
 pages:
+- ebooksmarketer.com/content/about-us.md
 - ebooksmarketer.com/content/accueil.md
