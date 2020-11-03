@@ -16,13 +16,13 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Les articles de nos experts sont la !"
+  content : "Vous avez la possibilité de lire gratuitement ces articles par sujet au format réduit"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
-    link : "products"
+    label : "Nos articles"
+    link : "blog"
 
 ######################## raw material #######################
 material:
