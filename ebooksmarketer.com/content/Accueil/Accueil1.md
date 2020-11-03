@@ -1,3 +1,9 @@
++++
+type = "Page Template"
+title = "Accueil"
+description = "Accueil du blog du marketer"
++++
+
 # BIENVENUE SUR LE BLOG DU MARKETER !
 
 ## Si vous êtes sur notre blog c'est que vous cherchez à approfondir vos compétences en matière de marketing.
