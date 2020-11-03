@@ -61,6 +61,11 @@
 </section>
 {{ end }}
 {{ end }}
+<!-- /about -->
+
+{{ if site.Data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
 
 <!-- material -->
 {{ if site.Data.homepage.material.enable }}
