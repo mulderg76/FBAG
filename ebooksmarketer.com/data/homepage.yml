@@ -63,7 +63,7 @@ testimonial:
       
     # testimonial item loop
     - name : "Donald Trump"
-      image : "images/clients/client-2.jpg" # size 100px*100px
+      image : "images/clients/client-4.jpg" # size 100px*100px
       designation : "CEO USA"
       content : "My twitter has become so powerful that I can actually make my enemies tell the truth."
       rating : "one" # rating star, one to five
