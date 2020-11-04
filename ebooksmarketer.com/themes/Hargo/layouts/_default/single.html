@@ -11,12 +11,12 @@
             <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
               {{ .PublishDate.Format "02 Jan, 2006" }}</li>
           </ul>
-          <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">Commander l'ebook</a>
 		  <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 mb-4">
           <div class="content">
             {{.Content}}
           </div>
         </article>
+		  <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">Commander l'ebook</a>
       </div>
     </div>
   </div>
