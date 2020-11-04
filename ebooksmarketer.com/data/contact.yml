@@ -3,21 +3,21 @@ contact:
   enable : true
   # office
   office:
-    title : "Central Office"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+    title : "Publication Marketing"
+    content : "Un site par FGL SERVICES"
     # other information comes from "config.toml"
 
   # opennig hour
   opennigHour:
-    title : "Opening Hours"
+    title : "Heures d'ouverture"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
-      - dayTime : "Wednesday: 9:00 – 19:00"
-      - dayTime : "Thursday: 9:00 – 19:00"
-      - dayTime : "Friday: 9:00 – 19:00"
-      - dayTime : "Saturday: 9:00 – 19:00"
-      - dayTime : "sunday: 9:00 – 19:00"
+      - dayTime : "Lundi: 9:00 – 19:00"
+      - dayTime : "Mardi: 9:00 – 19:00"
+      - dayTime : "Mercredi: 9:00 – 19:00"
+      - dayTime : "Jeudi: 9:00 – 19:00"
+      - dayTime : "Vendredi: 9:00 – 19:00"
+      - dayTime : "Samedi: 9:00 – 12:00"
+      - dayTime : "Dimanche: fermé"
 
 ####################### google map ########################
 map:
