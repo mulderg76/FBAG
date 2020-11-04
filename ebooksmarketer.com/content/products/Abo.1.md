@@ -7,8 +7,8 @@ draft: false
 description : "Commande un ebook"
 
 # product Price
-price: "20.00€"
-priceBefore: "25.00€"
+price: "8.00€"
+priceBefore: "15.00€"
 
 # Product Short Description
 shortDescription: "Cette formule vous permet de commander un ebook en particulier"
@@ -26,4 +26,4 @@ images:
   - image: "images/products/product-1-1.png" 
 ---
 
-Ce tarif est valablie pour le téléchargement d'un ebook. Consultez nos formules d'abonnement pour avoir accès à l'ensemble de nos ebooks tout au long de l'année !
+Ce tarif est valable pour le téléchargement d'un ebook. Consultez nos formules d'abonnement pour avoir accès à l'ensemble de nos ebooks tout au long de l'année !
