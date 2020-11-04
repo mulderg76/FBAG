@@ -1,26 +1,15 @@
 ---
-title: "Human Gut Microbes Could Make Processed Foods Healthier"
-date: 2019-10-17T11:22:16+06:00
+title: "Brand content : définition et bonnes pratiques"
+date: 220-03-09T11:22:16+06:00
 draft: false
 description : "this is a meta description"
-image: "images/blog/post-2.jpg"
-author: "John Doe"
+image: "images/blog/post-4.png"
+author: "Cegos"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+Le contenu de marque ou brand content consiste à créer un contenu pour mettre en valeur une entreprise et sa marque. L’objectif est de fédérer les clients autour des valeurs positives de la société et de lui créer un univers immédiatement identifiable pour la démarquer de la concurrence. Cette stratégie brand content peut prendre différentes formes (infographie, podcasts, vidéo, storytelling) et être diffusée sur plusieurs médias (réseaux sociaux, radio, TV, blog…) Dans tous les cas, le contenu doit interagir avec l’audience et mettre en avant le label de l’entreprise.
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Brand content et digital
+Autrefois, les entreprises soucieuses de positionner leur image de marque avaient pour unique support la publicité, les visuels déclinés sur le packaging et la création événementielle. Dorénavant, elles peuvent toucher un public plus large et conquérir de nouveaux clients en se servant du digital. Pour cela, elles vont développer une stratégie de contenu en misant sur l’information et le divertissement. Cette communication n’est pas forcément en rapport direct avec le produit de la marque. En effet, il peut avoir trait à des champs beaucoup plus élargis en rapport, notamment, avec les valeurs véhiculées par l’entreprise.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
-
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+Ce contenu très différent de la communication traditionnelle peut emprunter la forme de podcasts, vidéos, rubriques d’actus ou encore une présence active sur les réseaux sociaux. Effectivement, le brand content doit toucher sa cible par la créativité et la narration. Il s’agit davantage de faire du storytelling pour améliorer l’image de marque et la réputation en captant l’intérêt de la cible visée.
