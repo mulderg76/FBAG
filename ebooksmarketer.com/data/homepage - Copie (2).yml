@@ -25,16 +25,11 @@ cta:
     link : "blog"
 
 ######################## raw material #######################
-banner:
+material:
   enable : true
   title : "Vous en voulez plus ?"
   subtitle : "Abonnez vous et consultez nos ebooks dédiés créés par nos experts !"
-  # button
-  button:
-    enable : true
-    label : "Formules d'abonnement"
-    link : "products"
-      
+
 ########################## Testimonial ########################
 testimonial:
   enable : true
