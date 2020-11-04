@@ -25,7 +25,7 @@
           <span class="lead text-primary font-weight-medium">${{ .Params.Price }}</span>
           <s>${{ .Params.PriceBefore }}</s>
         </div>
-        <h5>Description</h5>
+        <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
