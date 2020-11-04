@@ -76,12 +76,12 @@
       <div class="col-lg-6 mx-auto text-center">
         <h2>{{ .title | markdownify }}</h2>
         <p>{{ .subtitle | markdownify }}</p>
-      </div>
+		{{ if .button.enable }}
+		{{ with .button }}
+		<a href="{{ .link }}" class="btn btn-primary mr-3">{{ .label }}</a>
+		{{ end }}
+	  </div>
     </div>
-	{{ if .button.enable }}
-    {{ with .button }}
-    <a href="{{ .link }}" class="btn btn-primary mr-3">{{ .label }}</a>
-    {{ end }}
 	<div class="row">
       {{ range .materialItem }}
       <div class="col-lg-3 col-md-4 col-sm-6">
