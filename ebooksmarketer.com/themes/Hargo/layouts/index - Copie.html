@@ -76,9 +76,14 @@
       <div class="col-lg-6 mx-auto text-center">
         <h2>{{ .title | markdownify }}</h2>
         <p>{{ .subtitle | markdownify }}</p>
-      </div>
+		{{ if .button.enable }}
+		{{ with .button }}
+		<a href="{{ .link }}" class="btn btn-primary mr-3">{{ .label }}</a>
+		{{ end }}
+		{{ end }}
+	  </div>
     </div>
-    <div class="row">
+	<div class="row">
       {{ range .materialItem }}
       <div class="col-lg-3 col-md-4 col-sm-6">
         <div class="card border-0 text-center">
@@ -96,6 +101,8 @@
 {{ end }}
 {{ end }}
 <!-- /material -->
+
+
 
 <!-- advantage -->
 {{ if site.Data.homepage.advantage.enable }}
@@ -232,9 +239,5 @@
 {{ end }}
 {{ end }}
 <!-- /testimonial -->
-
-{{ if site.Data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
 
 {{ end }}
