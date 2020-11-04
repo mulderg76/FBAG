@@ -31,7 +31,7 @@ logo = "images/logo.png"
 mapLatitude = "49.4404591"
 mapLongitude = "1.0939658"
 mapMarker = "images/marker.png"
-mobile = "0124857985320"
+mobile = "0612345678"
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 [params.contact]
 formAction = "#"
