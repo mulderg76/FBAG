@@ -6,26 +6,6 @@ summaryLength = "20"
 theme = "Hargo"
 title = "Le blog du Marketer"
 url = "https://stupefied-rosalind-bc906f.netlify.app/"
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 5
-[[menu.footer]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 3
-[[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 2
-[[menu.footer]]
-URL = "products"
-name = "Abonnements"
-weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Nous contacter"
@@ -76,18 +56,4 @@ preloader = ""
 enable = true
 publicKey = "811cf0927332bf51f2e12f84608594ac"
 websiteID = "444334"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+
