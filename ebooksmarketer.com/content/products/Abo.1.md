@@ -11,7 +11,7 @@ price: "20.00€"
 priceBefore: "25.00€"
 
 # Product Short Description
-Description: "Cette formule vous permet de commander un ebook en particulier"
+shortDescription: "Cette formule vous permet de commander un ebook en particulier"
 
 #product ID
 productID: "1"
