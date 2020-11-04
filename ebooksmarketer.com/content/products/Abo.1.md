@@ -23,6 +23,7 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/products/product-1.png"
+  - image: "images/products/product-1-1.png" 
 ---
 
 Ce tarif est valablie pour le téléchargement d'un ebook. Consultez nos formules d'abonnement pour avoir accès à l'ensemble de nos ebooks tout au long de l'année !

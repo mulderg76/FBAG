@@ -71,7 +71,7 @@ $(window).on('load', function () {
   // product Slider
   $('.product-slider').slick({
     autoplay: false,
-    infinite: false,
+    infinite: true,
     arrows: false,
     dots: true,
     customPaging: function (slider, i) {
