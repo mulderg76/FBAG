@@ -1,26 +1,22 @@
 ---
-title: "Human Gut Microbes Could Make Processed Foods Healthier"
-date: 2019-10-17T11:22:16+06:00
+title: "Webmarketing : un levier indispensable pour une bonne image de marque !"
+date: 2020-03-23T11:22:16+06:00
 draft: false
 description : "this is a meta description"
-image: "images/blog/post-2.jpg"
-author: "John Doe"
+image: "images/blog/post-3.png"
+author: "Cegos"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+Le champ lexical est vaste pour désigner toutes les pratiques liées au marketing utilisant des supports et canaux web. Le marketing digital désigne donc aussi le marketing numérique, e-maketing ou webmarketing. Toutes les entreprises ont aujourd’hui un site internet pour être visible auprès des consommateurs et développer leur image de marque.
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Différentes stratégies de marketing digital se sont développées sur le net en vue d’obtenir des résultats en termes d’acquisition de trafic et de clients. Votre intérêt est d’utiliser les différents canaux de manière pertinente afin de promouvoir votre marque.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Les objectifs du webmarketing
+Le webmarketing consiste à développer des techniques marketing spécifiques à Internet. Associé aux sites Internet et aux réseaux sociaux, il fait partie intégrante de la stratégie commerciale des entreprises. C’est un domaine complexe, en perpétuelle évolution. Dans notre monde hyper connecté, vous devez capter l’attention des consommateurs, développer votre image de marque et adapter votre stratégie à la taille et aux besoins de votre entreprise.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
-
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+Le webmarketing tend à :
+améliorer l’image de l’entreprise et sa réputation,
+augmenter le trafic de votre site internet,
+Acquérir des prospects et les convertir en clients.
+établir une relation de confiance avec les prospects et les clients et prospects afin de les fidéliser.
+Vous devez vous fixer des objectifs marketing à votre site internet et de cibler les canaux webmarketing qui conviennent le mieux.
