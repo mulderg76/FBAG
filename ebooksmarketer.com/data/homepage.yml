@@ -44,7 +44,7 @@ testimonial:
     - name : "Mick Guiver"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "Aventurier"
-      content : "J'ai commandé l'ebook pour devenir indépendant, une reconversion réussie."
+      content : "J'ai commandé un ebook pour devenir indépendant, une reconversion réussie."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
