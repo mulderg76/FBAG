@@ -6,6 +6,11 @@
     </div>
   </div>
   
+  <div class="flex justify-between">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+      &copy; {{ now.Format "2006" }} {{ .Site.Title }}
+    </a>
+	
       <!-- menu de pied de page -->
     {{ if .Site.Menus.footer }}
     <div>
@@ -19,6 +24,7 @@
     </div>
     {{ end }}
     <!-- fin du menu de pied de page -->
+   </div>
 	
 </footer>
 
