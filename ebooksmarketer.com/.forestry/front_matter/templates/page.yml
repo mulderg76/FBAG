@@ -1,4 +1,16 @@
 ---
 label: Page
 hide_body: true
-fields: []
+fields:
+- name: menu
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu
