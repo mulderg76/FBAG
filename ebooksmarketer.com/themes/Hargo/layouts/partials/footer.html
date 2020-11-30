@@ -3,7 +3,13 @@
     <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
       &copy; {{ now.Format "2006" }} {{ .Site.Title }}
     </a>
-
+	
+    <div class="row">
+      <div class="col-12 text-center py-4">
+        {{ site.Params.copyright | markdownify  }}
+      </div>
+    </div>
+	
     <!-- menu de pied de page -->
     {{ if .Site.Menus.footer }}
     <div>
