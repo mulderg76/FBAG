@@ -1,16 +1,11 @@
-<footer class="section pb-0">
-    <div class="row">
-      <div class="col-12 text-center py-4">
-        {{ site.Params.copyright | markdownify  }}
-      </div>
-    </div>
-  
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
     <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
       &copy; {{ now.Format "2006" }} {{ .Site.Title }}
     </a>
-	
-      <!-- menu de pied de page -->
+
+    <!-- menu de pied de page -->
+    {{ if .Site.Menus.footer }}
     <div>
       <nav>
         {{ range .Site.Menus.footer }}
@@ -20,9 +15,11 @@
         {{ end }}
       <nav>
     </div>
+    {{ end }}
     <!-- fin du menu de pied de page -->
+
+    <div>{{ partial "social-follow.html" . }}</div>
   </div>
-	
 </footer>
 
 {{ "<!-- Google Map API -->" | safeHTML }}
