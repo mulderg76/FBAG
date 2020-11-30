@@ -34,7 +34,7 @@ mapMarker = "images/marker.png"
 mobile = "0612345678"
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 [params.contact]
-formAction = "fglservices@gmail"
+formAction = "fglservices@gmail.com"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
