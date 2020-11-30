@@ -4,7 +4,6 @@
         {{ site.Params.copyright | markdownify  }}
       </div>
     </div>
-  </div>
   
   <div class="flex justify-between">
     <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
@@ -12,7 +11,6 @@
     </a>
 	
       <!-- menu de pied de page -->
-    {{ if .Site.Menus.footer }}
     <div>
       <nav>
         {{ range .Site.Menus.footer }}
@@ -24,7 +22,7 @@
     </div>
     {{ end }}
     <!-- fin du menu de pied de page -->
-   </div>
+  </div>
 	
 </footer>
 
