@@ -10,13 +10,11 @@
     {{ if .Site.Menus.footer }}
     <div>
       <nav>
-	    <div class="col-12 text-center py-4">
         {{ range .Site.Menus.footer }}
         <a class="center" href="{{ .URL }}" >
           {{ .Name }}
         </a>
         {{ end }}
-		</div>
       <nav>
     </div>
     {{ end }}
