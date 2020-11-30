@@ -5,6 +5,21 @@
       </div>
     </div>
   </div>
+  
+      <!-- menu de pied de page -->
+    {{ if .Site.Menus.footer }}
+    <div>
+      <nav>
+        {{ range .Site.Menus.footer }}
+        <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .URL }}" >
+          {{ .Name }}
+        </a>
+        {{ end }}
+      <nav>
+    </div>
+    {{ end }}
+    <!-- fin du menu de pied de page -->
+	
 </footer>
 
 {{ "<!-- Google Map API -->" | safeHTML }}
