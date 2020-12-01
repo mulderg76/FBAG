@@ -18,6 +18,11 @@
         </article>
 		  <a href="{{ `https://leblogdumarketer.netlify.app/products/` }}" class="btn btn-sm btn-outline-primary">Commander l'ebook</a>
       </div>
+
+      {{ if .Params.Téléchargements }}
+      <div style="color:grey; font-size:16px;"><strong>Téléchargements :</strong> {{ .Params.Téléchargements }}</div>
+      {{end}}
+
     </div>
   </div>
 </section>

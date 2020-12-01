@@ -22,7 +22,6 @@
             <div style="color:grey; font-size:16px;"><strong>Difficulté :</strong> {{range .Params.difficulte}}<a href="{{ "/difficulte/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</div>
             {{end}}
 
-
             <p>{{ .Summary }}</p>
             <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">Continuer la lecture</a>
           </div>
