@@ -21,4 +21,4 @@ améliorer l’image de l’entreprise et sa réputation,
 augmenter le trafic de votre site internet,
 Acquérir des prospects et les convertir en clients.
 établir une relation de confiance avec les prospects et les clients et prospects afin de les fidéliser.
-Vous devez vous fixer des objectifs marketing à votre site internet et de cibler les canaux webmarketing qui conviennent le mieux.
+Vous devez vous fixer des objectifs marketing à votre site internet et de cibler les canaux webmarketing qui conviennent le mieux...

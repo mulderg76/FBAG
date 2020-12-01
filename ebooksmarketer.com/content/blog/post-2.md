@@ -18,4 +18,4 @@ Généralement, dans ce processus de prise de conscience nait une idée de solut
 
 À ce stade, une image va venir en surimpression dans l’esprit des clients : l’image qu’ils ont de votre produit ou service par rapport à leur idée de solution. Pour que l’histoire se termine bien pour votre solution, il est vital de comprendre comment les clients/prospects vous perçoivent et en quoi cette perception vous est favorable. La perception prime dans la décision : c’est ce qu’ils vont ressentir à votre sujet qui l’emportera au final.
 
-Leur image à votre sujet est subjective : elle provient d’expériences passées, de bouche -à-oreille, d’informations recueillies sur internet, et de ce qu’ils ont compris de votre communication de marque.
+Leur image à votre sujet est subjective : elle provient d’expériences passées, de bouche -à-oreille, d’informations recueillies sur internet, et de ce qu’ils ont compris de votre communication de marque...
