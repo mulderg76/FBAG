@@ -17,6 +17,12 @@
               <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
                 {{ .PublishDate.Format "02 Jan, 2006" }}</li>
             </ul>
+
+            {{ if .Params.niveau }}
+            <div style="color:grey; font-size:16px;"><strong>Difficulté :</strong> {{range .Params.niveau}}<a href="{{ "/niveau/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</div>
+            {{end}}
+
+
             <p>{{ .Summary }}</p>
             <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">Continuer la lecture</a>
           </div>

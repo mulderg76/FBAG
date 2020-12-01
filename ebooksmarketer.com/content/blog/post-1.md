@@ -5,6 +5,8 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-1.jpg"
 author: "Audrey Jaspart"
+niveau: "Facile"
+Téléchargements : "1250"
 ---
 
 Les marketeurs investissent beaucoup de temps dans leurs campagnes, et ils ne savent pas toujours si leurs efforts sont payants. Les réseaux sociaux en sont un exemple classique : les entreprises les adoptent sans savoir si les interactions avec les utilisateurs leur permettent de générer de nouveaux clients.

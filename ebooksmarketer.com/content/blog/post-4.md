@@ -5,6 +5,8 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-4.png"
 author: "Cegos"
+niveau: "Intermédiaire"
+Téléchargements : "354"
 ---
 
 Le contenu de marque ou brand content consiste à créer un contenu pour mettre en valeur une entreprise et sa marque. L’objectif est de fédérer les clients autour des valeurs positives de la société et de lui créer un univers immédiatement identifiable pour la démarquer de la concurrence. Cette stratégie brand content peut prendre différentes formes (infographie, podcasts, vidéo, storytelling) et être diffusée sur plusieurs médias (réseaux sociaux, radio, TV, blog…) Dans tous les cas, le contenu doit interagir avec l’audience et mettre en avant le label de l’entreprise.
