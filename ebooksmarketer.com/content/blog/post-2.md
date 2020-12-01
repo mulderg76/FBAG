@@ -2,7 +2,7 @@
 title: "Marketing : comprendre les mécanismes de la perception"
 date: 2020-06-12T11:22:16+06:00
 draft: false
-description : "Répondre aux besoins des clients est loin de suffire pour rencontrer un succès commercial. C’est la perception qui prime dans la décision d’achat. On vous explique comment faire jouer cela en votre faveur."
+description : "Répondre aux besoins des clients est loin de suffire pour rencontrer un succès commercial. C’est la perception qui prime dans la décision d’achat."
 image: "images/blog/post-2.jpg"
 author: "Audrey Jaspart"
 difficulte: ["Difficile"]
