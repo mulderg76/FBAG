@@ -18,8 +18,8 @@
                 {{ .PublishDate.Format "02 Jan, 2006" }}</li>
             </ul>
 
-            {{ if .Params.niveau }}
-            <div style="color:grey; font-size:16px;"><strong>Difficulté :</strong> {{range .Params.niveau}}<a href="{{ "/niveau/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</div>
+            {{ if .Params.difficulte }}
+            <div style="color:grey; font-size:16px;"><strong>Difficulté :</strong> {{range .Params.difficulte}}<a href="{{ "/difficulte/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</div>
             {{end}}
 
 

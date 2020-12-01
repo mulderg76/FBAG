@@ -5,7 +5,7 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-1.jpg"
 author: "Audrey Jaspart"
-niveau: "Facile"
+difficulte: ["Facile"]
 Téléchargements : "1250"
 ---
 

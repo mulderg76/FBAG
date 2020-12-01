@@ -5,7 +5,7 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-4.png"
 author: "Cegos"
-niveau: "Intermédiaire"
+difficulte: ["Facile"]
 Téléchargements : "354"
 ---
 
