@@ -2,7 +2,7 @@
 title: "Brand content : définition et bonnes pratiques"
 date: 220-03-09T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Le brand content se travaille dans le temps. Il nécessite de consacrer un budget pour acquérir des fans afin d’agrandir sa communauté et augmenter sa visibilité."
 image: "images/blog/post-4.png"
 author: "Cegos"
 difficulte: ["Facile"]

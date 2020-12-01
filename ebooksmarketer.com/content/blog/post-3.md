@@ -2,7 +2,7 @@
 title: "Webmarketing : un levier indispensable pour une bonne image de marque !"
 date: 2020-03-23T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Votre stratégie webmarketing peut être mise en place ou affinée grâce à un webmarketer. Ce spécialiste de marketing digital a pour fonction de définir une stratégie de communication internet personnalisée."
 image: "images/blog/post-3.png"
 author: "Cegos"
 difficulte: ["Facile"]

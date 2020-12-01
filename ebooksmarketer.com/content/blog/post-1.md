@@ -2,7 +2,7 @@
 title: "Introduction au marketing en boucle fermée"
 date: 2020-11-02T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Le marketing en boucle fermée en 4 étapes"
 image: "images/blog/post-1.jpg"
 author: "Audrey Jaspart"
 difficulte: ["Facile"]
