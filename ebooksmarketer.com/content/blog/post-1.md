@@ -15,6 +15,6 @@ Les marketeurs investissent beaucoup de temps dans leurs campagnes, et ils ne sa
 
 <h2>Un éco-système en 4 étapes</h2>
 
-Les marketeurs disposent aujourd'hui de la technologie dont ils ont besoin pour « fermer la boucle » entre <strong>marketing</strong> et chiffre d'affaires, mais peu d'entre eux en profitent réellement. 
+Les marketeurs disposent aujourd'hui de la technologie dont ils ont besoin pour <strong>« fermer la boucle »</strong> entre <strong>marketing</strong> et chiffre d'affaires, mais peu d'entre eux en profitent réellement. 
 
 Les marketeurs performants doivent être en mesure d'attribuer chaque lead, chaque client et chaque euro au projet marketing qui en est à l’origine. C'est de cette façon qu'ils peuvent faire la preuve de leurs capacités et comprendre comment atteindre plus efficacement leur audience...
