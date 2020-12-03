@@ -56,7 +56,5 @@ preloader = ""
 enable = true
 publicKey = "811cf0927332bf51f2e12f84608594ac"
 websiteID = "444334"
-[taxonomies]
-  Téléchargements = "Téléchargements"
-  difficulte = "difficulte"
+
 
