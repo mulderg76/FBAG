@@ -9,7 +9,11 @@ difficulte: ["Facile"]
 Téléchargements : "1250"
 ---
 
+<h1>Le Marketing en boucle fermée</h1>
+
 Les marketeurs investissent beaucoup de temps dans leurs campagnes, et ils ne savent pas toujours si leurs efforts sont payants. Les réseaux sociaux en sont un exemple classique : les entreprises les adoptent sans savoir si les interactions avec les utilisateurs leur permettent de générer de nouveaux clients.
+
+<h2>Un éco-système en 4 étapes</h2>
 
 Les marketeurs disposent aujourd'hui de la technologie dont ils ont besoin pour « fermer la boucle » entre marketing et chiffre d'affaires, mais peu d'entre eux en profitent réellement. 
 
