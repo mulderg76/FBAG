@@ -6,7 +6,7 @@ description : "Le marketing en boucle fermée en 4 étapes"
 image: "images/blog/post-1.jpg"
 author: "Audrey Jaspart"
 difficulte: ["Facile"]
-Téléchargements : "1250"
+Telechargements : "1250"
 ---
 
 Les marketeurs investissent beaucoup de temps dans leurs campagnes, et ils ne savent pas toujours si leurs efforts sont payants. Les réseaux sociaux en sont un exemple classique : les entreprises les adoptent sans savoir si les interactions avec les utilisateurs leur permettent de générer de nouveaux clients.

@@ -6,7 +6,7 @@ description : "Répondre aux besoins des clients est loin de suffire pour rencon
 image: "images/blog/post-2.jpg"
 author: "Audrey Jaspart"
 difficulte: ["Difficile"]
-Téléchargements : "780"
+Telechargements : "780"
 ---
 
 Répondre aux besoins des clients est loin de suffire pour rencontrer un succès commercial. C’est la perception qui prime dans la décision d’achat. On vous explique comment faire jouer cela en votre faveur.

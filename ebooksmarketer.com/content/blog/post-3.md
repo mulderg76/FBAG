@@ -6,7 +6,7 @@ description : "Votre stratégie webmarketing peut être mise en place ou affiné
 image: "images/blog/post-3.png"
 author: "Cegos"
 difficulte: ["Facile"]
-Téléchargements : "2410"
+Telechargements : "2410"
 ---
 
 Le champ lexical est vaste pour désigner toutes les pratiques liées au marketing utilisant des supports et canaux web. Le marketing digital désigne donc aussi le marketing numérique, e-maketing ou webmarketing. Toutes les entreprises ont aujourd’hui un site internet pour être visible auprès des consommateurs et développer leur image de marque.
