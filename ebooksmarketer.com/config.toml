@@ -6,22 +6,29 @@ summaryLength = "20"
 theme = "Hargo"
 title = "Le blog du Marketer"
 url = "https://leblogdumarketer.netlify.app/"
-[[menu.main]]
-URL = "contact"
-name = "Nous contacter"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Articles"
-weight = 3
+[[menu.footer]]
+name = "Site partenaire de PUCEBIOS.FR"
+url = "https://www.pucebios.fr/"
+weight = 2
+[[menu.footer]]
+name = "Contact"
+weight = 1
 [[menu.main]]
 URL = "products"
 name = "Abonnements"
-weight = 4
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Articles"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Nous contacter"
+weight = 3
 [params]
-description = "Le blog du Marketing par des experts"
 author = "Themefisher"
 copyright = "Copyright &copy; 2020 FGL SERVICES"
+description = "Le blog du Marketing par des experts"
 email = "fglservices@gmail.com"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCGRcXg7i4_IdFzO_IESqttRni5d1T3vwQ&libraries=places"
 googleAnalitycsID = ""
@@ -57,6 +64,5 @@ enable = true
 publicKey = "811cf0927332bf51f2e12f84608594ac"
 websiteID = "444334"
 [taxonomies]
-  Telechargements = "Telechargements"
-  difficulte = "difficulte"
-
+Telechargements = "Telechargements"
+difficulte = "difficulte"
