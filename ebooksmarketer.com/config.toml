@@ -6,7 +6,6 @@ summaryLength = "20"
 theme = "Hargo"
 title = "Le blog du Marketer"
 url = "https://leblogdumarketer.netlify.app/"
-description = "Le blog du Marketing par des experts"
 [[menu.main]]
 URL = "contact"
 name = "Nous contacter"
@@ -20,6 +19,7 @@ URL = "products"
 name = "Abonnements"
 weight = 4
 [params]
+description = "Le blog du Marketing par des experts"
 author = "Themefisher"
 copyright = "Copyright &copy; 2020 FGL SERVICES"
 email = "fglservices@gmail.com"
