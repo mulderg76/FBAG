@@ -7,12 +7,12 @@ theme = "Hargo"
 title = "Le blog du Marketer"
 url = "https://leblogdumarketer.netlify.app/"
 [[menu.footer]]
+name = "Contact"
+weight = 1
+[[menu.footer]]
 name = "Site partenaire de PUCEBIOS.FR"
 url = "https://www.pucebios.fr/"
 weight = 2
-[[menu.footer]]
-name = "Contact"
-weight = 1
 [[menu.main]]
 URL = "products"
 name = "Abonnements"
