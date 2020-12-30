@@ -8,6 +8,7 @@ title = "Le blog du Marketer"
 url = "https://leblogdumarketer.netlify.app/"
 [[menu.footer]]
 name = "Contact"
+url = "https://leblogdumarketer.netlify.app/contact/"
 weight = 1
 [[menu.footer]]
 name = "Site partenaire de PUCEBIOS.FR"
